@@ -14,6 +14,7 @@ class _RoutesState extends State<Routes> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Prueba Tecnica',
+      theme: ThemeData(fontFamily: 'Poppins'),
       initialRoute: '/home',
       routes: {
         "/home": (BuildContext context) => HomePage(),
