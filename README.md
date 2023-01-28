@@ -1,16 +1,16 @@
 # prueba_tecnica_mawi_apps
 
-A new Flutter project.
+Esta es mi prueba tecnica en la cual realicé un maquetado sencillo en base a la imagen y recursos enviados.
 
-## Getting Started
+## Librerias Utilizadas
 
-This project is a starting point for a Flutter application.
+Para este proyecto se utilizaron las siguientes librerias:
 
-A few resources to get you started if this is your first Flutter project:
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Agradecimientos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Muchas gracias por la oportunidad brindada.
+
+
+
